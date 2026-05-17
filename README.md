@@ -90,11 +90,9 @@ Here are some projects I’m working on or planning to build:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/walaa-omar-)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](wo441170@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/walaa-omar-/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wo441170@gmail.com)
 ---
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PUT-YOUR-GITHUB-USERNAME-HERE&color=blueviolet&style=flat-square)
